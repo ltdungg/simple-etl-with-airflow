@@ -1,0 +1,4 @@
+pandas==2.1.4
+wget==3.2
+apache-airflow==2.9.3
+marshmallow-sqlalchemy==0.28.2
